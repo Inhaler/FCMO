@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Patricia</asignado>
+    <descripcion>Reenvio - Cerrar Popup - Seleccionar la Cruz</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Reenvio_Invitacion_23</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>3_Se hace clik en reenviar invitacion</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>4_Se modifica los campos email y telefono</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>6_Se verifica que se visualice la grilla de invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>9_Se verifica que no se guardo el cambio de celular</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>7_Se verifica que se visualiza el socio en la grilla de invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>8_Se verifica que no se guardo el cambio de correo</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>5_Se hace clic en la cruz del popUp</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562162800</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

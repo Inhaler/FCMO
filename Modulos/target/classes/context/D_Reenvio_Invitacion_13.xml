@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Noelia</asignado>
+    <descripcion>Reenviar Invitación - Editar Nro de Celular</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Reenvio_Invitacion_13</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>1_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>3_Se hace clik en reenviar invitacion</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>4_Se modifica el campo email</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>5_Se modifica el campo nroTelefono</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>6_Se reenvia la invitacion - Se verifica mensaje de reenvio OK</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>2_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562162656</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Noelia</asignado>
+    <descripcion>Grilla Invitaciones - Exportar - fecha desde mayor al dia actual</descripcion>
+    <estado>Pasa</estado>
+    <fechas>
+        <fechaDesde>14/04/2021</fechaDesde>
+        <fechaHasta>15/04/2021</fechaHasta>
+    </fechas>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Seccion_Invitacion_14</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>8_Se valida que no hay invitaciones para ese periodo</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>1_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>3_Se verifica que se visualice el boton exportar</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>2_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>4_Se hace clic en el boton exportar</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>5_Se carga una fecha desde</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>7_Se hace clic en exportar del popUp</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>6_Se carga fecha hasta</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562158037</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

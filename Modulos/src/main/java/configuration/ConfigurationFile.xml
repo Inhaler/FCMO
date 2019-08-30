@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuration>
+	<browser>Chrome</browser>
+	<driverPath>..\\framework\\src\\drivers\\ChromeDriver\\chromedriver.exe</driverPath>
+	<IEDriverPath>..\\framework\\src\\drivers\\ChromeDriver\\chromedriver.exe</IEDriverPath>
+	<delivery>False</delivery>
+	<imagePath>\\src\\ResultadosTest\\screenshot</imagePath>
+	<imageRepository>C:\\imageRepository</imageRepository>
+	<log4jPath>..\\framework\\src\\log4j.xml</log4jPath>
+	<reportPath>..\\framework\\src\\main\\java\\report\\JReportAdvancedConfiguration.xml</reportPath>
+	<reportRepository>\\src\\ResultadosTest\\Report\\Reporte.pdf</reportRepository>
+	<deliveryPath>..\\framework\\src\\main\\java\\delivery\\emailSenderConfiguration.xml</deliveryPath>
+	<pruebaRemota>NO</pruebaRemota>
+	<urlDriver>http://10.0.2.15:4444/wd/hub</urlDriver>
+	<urlAdmin>https://tconsultamedica.osde.com.ar/admin</urlAdmin>
+	<urlMedico>https://tconsultamedica.osde.com.ar/medico</urlMedico>
+	<urlPrestadores>https://tconsultamedica.osde.com.ar/prestadores/</urlPrestadores>
+	<urlSocio>https://tconsultamedica.osde.com.ar/paciente/</urlSocio>
+	<correo>https://mail.google.com/mail/</correo>
+</configuration>
+
+

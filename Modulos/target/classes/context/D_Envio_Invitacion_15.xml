@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Patricia</asignado>
+    <descripcion>Formulario Invitación - Combo Provincia </descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Envio_Invitacion_15</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>12_Se selecciona la Provincia: Entre Rios</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>14_Se selecciona la Provincia: Jujuy</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>23_Se selecciona la Provincia: San Luis</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>08_Se selecciona la Provincia: Chaco</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se verifica la visualización del formulario de envio de invitación</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Se selecciona la Provincia: BS As </key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se verifica la visualización del botón enviar invitación</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>27_Se selecciona la Provincia: Tierra Del Fuego</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>21_Se selecciona la Provincia: Salta</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Se selecciona la Provincia: Catamarca</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>16_Se selecciona la Provincia: La Rioja</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>22_Se selecciona la Provincia: San Juan</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>19_Se selecciona la Provincia: Neuquen</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>25_Se selecciona la Provincia: Santa Fe</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>17_Se selecciona la Provincia: Mendoza</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>24_Se selecciona la Provincia: Santa Cruz</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>10_Se selecciona la Provincia: Cordoba</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>11_Se selecciona la Provincia: Corrientes</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>18_Se selecciona la Provincia: Misiones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>15_Se selecciona la Provincia: La Pampa</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>26_Se selecciona la Provincia: Santiago del Estero</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>13_Se selecciona la Provincia: Formosa</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>20_Se selecciona la Provincia: Rio Negro</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>09_Se selecciona la Provincia: Chubut</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Se selecciona la Provincia: Cap Fed</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>28_Se selecciona la Provincia: Tucuman</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562161464</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

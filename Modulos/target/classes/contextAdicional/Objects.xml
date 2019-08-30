@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Asignado</asignado>
+    <estado>Estado</estado>
+    <pasos/>
+    <prioridad>Prioridad</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Sprint</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>TiempoInicio</tiempoInicio>
+    <tipoDePrueba>TipoPrueba</tipoDePrueba>
+    <usuario>
+        <email>Prueba</email>
+        <password>Prueba</password>
+    </usuario>
+    <version>version</version>
+</objects>

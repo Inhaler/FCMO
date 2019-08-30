@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Pato</asignado>
+    <descripcion>Ingreso a la guardia Especialidad = Clinica</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Medico</modulo>
+    <nombreDeLaPrueba>M_AtenderVC_01</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>1_Se loguea el medico</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>3_Se ingresa al modulo Atender videoconsultas</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>4_Se verifica la visualizacion del botón para entrar a la guardia</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>5_Se hace clic en el boton ingresar a la guardia</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>2_Se ingresa a la home del medico</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562184595</tiempoInicio>
+    <tipoDePrueba>Regresion</tipoDePrueba>
+    <usuario>
+        <email>cmotest5@cmo.com</email>
+        <password>Cmotest5!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

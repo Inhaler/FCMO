@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default suite">
+	<test verbose="1" name="Default test">
+		<packages>
+			<package name="src.test.java.suiteVideoconsulta" />
+		</packages>
+		<classes>
+		<class name="suiteVideoconsulta.Regresion_Videoconsulta"/>
+		</classes>
+	</test>
+</suite> 

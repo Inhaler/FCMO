@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Patricia</asignado>
+    <descripcion>Seleccionar información complementaria - Comprimir Formulario</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Envio_Invitacion_29</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>15_Se verifica la no visualización del campo Fecha Nacimiento</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Se verifica la visualización del combo Socio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se verifica la visualización del formulario de envio de invitación</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>17_Se verifica la no visualización del campo Id Servicio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se verifica la visualización del botón enviar invitación</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>16_Se verifica la no visualización del combo Mesa Operativa</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>21_Se verifica la no visualización del check Internacion Domiciliaria</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>19_Se verifica la no visualización del check Cliente Interno</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>10_Se verifica la visualización del RadioButton Especialidad Clinica</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>18_Se verifica la no visualización del combo Plan</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>11_Se verifica la visualización del RadioButton Especialidad Pediatria</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>26_Se verifica la no visualización del campo Barrio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>20_Se verifica la no visualización del check Discapacidad</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>09_Se verifica la visualización del campo Email</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>13_Se verifica la no visualización del campo Nombre</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>29_Se verifica la visualización del botón Enviar</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>25_Se verifica la no visualización del combo Localidad</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>24_Se verifica la no visualización del combo Provincia</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>12_Se verifica la visualización del campo Detalle Motivo</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>27_Se verifica la visualización del link Ocultar Información del formulario</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>23_Se verifica la no visualización del check PMI</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Se verifica la visualización del campo Nro Socio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>28_Se verifica la visualización del botón Volver</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>08_Se verifica la visualización del campo Nro Telefono</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>14_Se verifica la no visualización del campo Apellido</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>22_Se verifica la no visualización del check Cronicidad</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Se hace clic en información complementaria</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562161518</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

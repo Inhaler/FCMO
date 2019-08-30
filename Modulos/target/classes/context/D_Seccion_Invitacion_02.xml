@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Noelia</asignado>
+    <descripcion>Grilla Invitaciones - Visualizar la grilla de invitaciones - con invitaciones</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Seccion_Invitacion_02</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>03_Se verifica la visualizacion del botón enviar invitacion</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Se verifica el titulo de la grilla</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Se verifica el mensaje de Invitacion Enviada</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>08_Se verifica que se visualice el check activas</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>10_Se verifican las columnas de la grilla</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se verifica la visualizacion del formulario de envio de invitacion</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>09_Se verifica que se visualice la fecha de actualizacion</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Se verifica que se visualice el boton exportar</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562157788</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

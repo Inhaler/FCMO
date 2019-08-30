@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Pato</asignado>
+    <contrasenia>
+        <contraseniaCoincidencia>cmotest5</contraseniaCoincidencia>
+        <contraseniaLongitud>cmo</contraseniaLongitud>
+        <contraseniaObligatoriedad>Cmotest5!</contraseniaObligatoriedad>
+    </contrasenia>
+    <descripcion>Modificar Contraseña - Realizar cambio</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Mod_Pass_01</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>1_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>5_Se verifica el mensaje de contraseña cambiada</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>2_Se verifica la visualización del botón para cambiar contraseña</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>4_Se modifica la contraseña</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>3_Se ingresa a la pantalla cambiar contraseña</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562161981</tiempoInicio>
+    <tipoDePrueba>Regresion</tipoDePrueba>
+    <usuario>
+        <email>cmotest5@cmo.com</email>
+        <password>Cmotest5!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

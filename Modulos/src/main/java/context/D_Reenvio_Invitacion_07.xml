@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Patricia</asignado>
+    <descripcion>Reenvio - Campo Email - Ingresar Email con formato no valido</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Reenvio_Invitacion_07</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>1_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>3_Se hace clik en reenviar invitacion</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>4_Se modifica los campos email y telefono</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>5_Se verifica el mensaje de error del campo: email - no válido - contiene @..@</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>2_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562162583</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

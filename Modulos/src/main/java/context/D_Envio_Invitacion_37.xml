@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Patricia</asignado>
+    <descripcion>Campo Identificación - Ingresar identificación de socio alfanumérico</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Envio_Invitacion_37</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>1_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>6_Se verifica el no ingreso de letras en el campo NroSocio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>5_Se cargan los datos del formulario</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>2_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>4_Se verifica la visualización del formulario de envio de invitación</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>3_Se verifica la visualización del botón enviar invitación</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562161640</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

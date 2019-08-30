@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Pato</asignado>
+    <contrasenia>
+        <contraseniaCoincidencia>cmotest5</contraseniaCoincidencia>
+        <contraseniaLongitud>cmo</contraseniaLongitud>
+        <contraseniaObligatoriedad>cmotest1</contraseniaObligatoriedad>
+    </contrasenia>
+    <descripcion>Modificar Contraseña - Validación longitud</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Mod_Pass_02</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>4_Se verifica la validación de la longitud de la contraseña - Nueva Contraseña</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>1_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>2_Se verifica la visualización del botón para cambiar contraseña</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>5_Se verifica la validación de la longitud de la contraseña - Reingresar Contraseña</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>3_Se ingresa a la pantalla cambiar contraseña</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562161992</tiempoInicio>
+    <tipoDePrueba>Regresion</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Patricia</asignado>
+    <descripcion>Campo ID Servicio - Ingresar un solo número </descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Envio_Invitacion_10</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>1_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>2_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>4_Se verifica la visualización del formulario de envio de invitación</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>3_Se verifica la visualización del botón enviar invitación</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>5_Se verifica el mensaje de Invitación Enviada</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>187</tiempoFinal>
+    <tiempoInicio>1562162210</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

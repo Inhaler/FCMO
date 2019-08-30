@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Noelia</asignado>
+    <descripcion>Grilla Invitaciones - Actualizar manualmente</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Seccion_Invitacion_11</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>1_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>5_Se actualiza la grilla automaticamente</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>3_Se verifica que se visualice la fecha de actualizacion</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>4_Se recupera la hora de actualizacion de la grilla</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>6_Se verifica que se actualizo la grilla</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>2_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562157984</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

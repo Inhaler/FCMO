@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Pato</asignado>
+    <descripcion>Pantalla Login - Email con formato no valido</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Medico</modulo>
+    <nombreDeLaPrueba>M_Login_04</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>1_Se ingresa al Login</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>2_Se valida el formato del correo</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1563543897</tiempoInicio>
+    <tipoDePrueba>Regresion</tipoDePrueba>
+    <usuario>
+        <email>cmotest1</email>
+        <password>cmotest1</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

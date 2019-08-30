@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reportConfiguration>
+	<testContentExecuteBy>Ejecutado por: </testContentExecuteBy>
+	<testContentObjetiveDescription>Tipo de prueba:	</testContentObjetiveDescription>
+	<testContentTestDescription>Descripción de la prueba: </testContentTestDescription>
+	<testContentTitle>Titulo: </testContentTitle>
+	<titleAddAutor>Tester A</titleAddAutor>
+	<titleAddCreator>Tester A</titleAddCreator>
+	<titleAddKeyWords>Java, PDF, iText</titleAddKeyWords>
+	<titleAddSubject>Using iText</titleAddSubject>
+	<titleAddTitle>JReport PDF</titleAddTitle>
+	<titleIntroDetails>Este documento contiene el detalle de las ejecuciones de las pruebas funcionales automatizadas.
+	</titleIntroDetails>
+	<titleReportBy>Reporte generado por: </titleReportBy>
+	<titleSecondTitle>Objetivo</titleSecondTitle>
+	<titleSecondDetails>Automatizar los escenarios funcionales
+	</titleSecondDetails>
+	<titleThirdDetails> Automatizacion de pruebas funcionales. Pruebas
+		Automatizadas sobre: * Flujo positivo Login Despacho * Flujo negativo Login despacho  </titleThirdDetails>
+	<titleThirdTitle>Alcance</titleThirdTitle>
+	<titleTitle>FRAMEWORK - AUTOMATIZACIÓN</titleTitle>
+</reportConfiguration>

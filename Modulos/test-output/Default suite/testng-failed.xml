@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="suiteTest.Regresion_Medico">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUpClass"/>
+          <include name="M_Home_05" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+          <include name="stepFail"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- suiteTest.Regresion_Medico -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Patricia</asignado>
+    <descripcion>Formulario Invitación - Campo Barrio - Datos de barrio Cargados</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Envio_Invitacion_18</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>03_Se verifica la visualización del botón enviar invitación</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>08_Se selecciona el primer barrio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Se cargan los datos del formulario</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Se hace clic en el campo barrio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>10_Se verifica el mensaje de invitación enviada</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>09_Se Envia formulario </key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se verifica la visualización del formulario de envio de invitación</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Se verifica que se muestren los barrios cargados</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562162263</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

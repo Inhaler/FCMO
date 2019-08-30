@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Patricia</asignado>
+    <descripcion>Generar Invitación sin completar los Campos obligatorios</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Envio_Invitacion_02</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>06_Se Verifica texto error de campos Obligatorios - nroSocio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>09_Se verifica texto error de campos Obligatorios - Especialidad</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Se verifica texto error de campos Obligatorios - nroTel</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>10_Se verifica texto error de campos Obligatorios - Motivo</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se verifica la visualización del formulario de envio de invitación</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>14_Se verifica texto error de campos Obligatorios - Plan</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se verifica la visualización del botón enviar invitación</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>12_Se verifica texto error de campos Obligatorios - Apellido</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>11_Se verifica texto error de campos Obligatorios - Nombre</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>08_Se verifica texto error de campos Obligatorios - Email</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Se Envia formulario sin completar campos obligatorios</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>13_Se verifica texto error de campos Obligatorios - IDServicio</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562161383</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

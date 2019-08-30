@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Noelia</asignado>
+    <descripcion>Grilla Invitaciones - Invitacion aceptada por socio </descripcion>
+    <estado>Falla</estado>
+    <imgFalla>C:\imageRepository\FALLA_D_Seccion_Invitacion_21_20190703094940.png</imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Seccion_Invitacion_21</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>03_Se verifica la visualizacion del botón enviar invitacion</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Se verifica el mensaje de Invitacion Enviada</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Se verifica que la invitacion no tenga fecha de lectura</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>10_Se aceptan los terminos y condiciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se verifica la visualizacion del formulario de envio de invitacion</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>11_Se actualiza la grilla de invitaciones en despacho</key>
+            <value>Falla</value>
+        </entry>
+        <entry>
+            <key>06_Se verifica que se muestre la invitacion en la grilla</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>08_Se ingresa como socio al Gmail</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>09_Se ingresa al link de la invitacion</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1562158122</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

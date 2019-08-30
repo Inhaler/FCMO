@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Patricia</asignado>
+    <descripcion>Login - usr y pass vacios</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Login_03</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>2_Se verifica la visualización deshabilitada del botón Ingresar</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>1_Se ingresa a Login</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>3_Se verifica el texto de error de campos Obligatorios</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562161971</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>cmotest3</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

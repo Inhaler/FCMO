@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Patricia</asignado>
+    <descripcion>Combo 'Mesa Operativa' . Todas las mesas dadas de Alta</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <mesasOperativas>
+        <mesa1>MDQ</mesa1>
+        <mesa2>MZA</mesa2>
+        <mesa3>MET</mesa3>
+        <mesa4>NEU</mesa4>
+        <mesa5>ROS</mesa5>
+        <mesa6>TUC</mesa6>
+    </mesasOperativas>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Envio_Invitacion_06</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>03_Se verifica la visualización del botón enviar invitación</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Se selecciona la mesa MDQ</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Se selecciona la mesa MET</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>09_Se selecciona la mesa ROS</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Se selecciona la mesa MZA</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>10_Se selecciona la mesa TUC</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>08_Se selecciona la mesa NEU</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se verifica la visualización del formulario de envio de invitación</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562161404</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

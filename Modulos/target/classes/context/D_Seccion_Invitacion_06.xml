@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Noelia</asignado>
+    <descripcion>Grilla Invitaciones - Eliminar Invitacion - Hacer clic en el boton salir</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Despacho</modulo>
+    <nombreDeLaPrueba>D_Seccion_Invitacion_06</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>7_Se verifica que la invitacion se siga mostrando en la grilla de invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>1_Se ingresa a Login Despacho</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>3_Se hace clik en anular invitacion</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>5_Se carga el campo motivo en el popUp de anular</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>2_Se ingresa al modulo invitaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>6_Se hace clic en el boton salir del popUp</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>4_Se verifica que se muestre el campo motivo en el popUp de anular</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1562157859</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>

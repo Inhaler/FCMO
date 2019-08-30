@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Noelia</asignado>
+    <estado>Pasa</estado>
+    <nombreDeLaPrueba>returnVC</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>generateInvitation</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>returnVC</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>testName</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Sprint 11</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>15537379052</tiempoInicio>
+    <tipoDePrueba>Regresion</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>cmotest1</password>
+    </usuario>
+    <version>1.0.0</version>
+</objects>

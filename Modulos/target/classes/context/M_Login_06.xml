@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Pato</asignado>
+    <descripcion>Pantalla Login - Reiniciar contraseña - Visualizacion</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Medico</modulo>
+    <nombreDeLaPrueba>M_Login_06</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>2_Se ingresa a recuperar contraseña</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>1_Se verifica la visualización del botón para recuperar contraseña</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>4_Se verifica la visualización del campo recaptcha</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>3_Se verifica la visualización del campo usuario</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>1563543921</tiempoInicio>
+    <tipoDePrueba>Regresion</tipoDePrueba>
+    <usuario>
+        <email>cmotest1@cmo.com</email>
+        <password>Cmotest1!</password>
+    </usuario>
+    <version>4.2.0</version>
+</objects>
